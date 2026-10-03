@@ -1,6 +1,6 @@
 # Personal Website
 
-Live site: [[landonalexander16.github.io](https://landonalexander16.github.io)](https://landonalexander16.github.io/Personal-Website)
+Live site: [(https://landonalexander16.github.io)](https://landonalexander16.github.io/Personal-Website)
 
 My personal portfolio site showcasing my projects, skills, and contact info.
 
