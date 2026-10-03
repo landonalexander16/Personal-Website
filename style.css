@@ -96,3 +96,24 @@ html{
         grid-template-columns: 1fr;
     }
 }
+
+footer {
+    text-align: center;
+    padding: 2rem 1rem;
+    background-color: #333;
+    color: #fff;
+}
+
+footer .footer-links {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+footer a {
+    color: #93c5fd;
+}
+
+footer h2 {
+    color: #fff;
+}
